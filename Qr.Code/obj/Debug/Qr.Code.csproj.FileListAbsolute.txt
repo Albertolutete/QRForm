@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\Qr.Code\Qr.Code\bin\Debug\Qr.Code.exe.config
+C:\Users\pc\source\repos\Qr.Code\Qr.Code\bin\Debug\Qr.Code.exe
+C:\Users\pc\source\repos\Qr.Code\Qr.Code\bin\Debug\Qr.Code.pdb
+C:\Users\pc\source\repos\Qr.Code\Qr.Code\bin\Debug\QRCoder.dll
+C:\Users\pc\source\repos\Qr.Code\Qr.Code\obj\Debug\Qr.Code.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Qr.Code\Qr.Code\obj\Debug\Qr.Code.Form1.resources
+C:\Users\pc\source\repos\Qr.Code\Qr.Code\obj\Debug\Qr.Code.Properties.Resources.resources
+C:\Users\pc\source\repos\Qr.Code\Qr.Code\obj\Debug\Qr.Code.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Qr.Code\Qr.Code\obj\Debug\Qr.Code.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Qr.Code\Qr.Code\obj\Debug\Qr.Code.csproj.CopyComplete
+C:\Users\pc\source\repos\Qr.Code\Qr.Code\obj\Debug\Qr.Code.exe
+C:\Users\pc\source\repos\Qr.Code\Qr.Code\obj\Debug\Qr.Code.pdb
