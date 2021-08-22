@@ -35,6 +35,7 @@ namespace Qr.Code
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+            this.Sipa = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureB)).BeginInit();
             this.SuspendLayout();
             // 
@@ -97,20 +98,33 @@ namespace Qr.Code
             this.label1.TabIndex = 5;
             this.label1.Text = "URL";
             // 
+            // Sipa
+            // 
+            this.Sipa.AutoSize = true;
+            this.Sipa.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Sipa.Location = new System.Drawing.Point(252, 27);
+            this.Sipa.Name = "Sipa";
+            this.Sipa.Size = new System.Drawing.Size(83, 29);
+            this.Sipa.TabIndex = 6;
+            this.Sipa.Text = "SIPAR";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(614, 450);
+            this.Controls.Add(this.Sipa);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.pictureB);
             this.Controls.Add(this.TxtQr);
             this.Controls.Add(this.button1);
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureB)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -125,6 +139,7 @@ namespace Qr.Code
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label Sipa;
     }
 }
 

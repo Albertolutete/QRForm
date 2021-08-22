@@ -10,3 +10,15 @@ C:\Users\pc\source\repos\Qr.Code\Qr.Code\obj\Debug\Qr.Code.csproj.CoreCompileInp
 C:\Users\pc\source\repos\Qr.Code\Qr.Code\obj\Debug\Qr.Code.csproj.CopyComplete
 C:\Users\pc\source\repos\Qr.Code\Qr.Code\obj\Debug\Qr.Code.exe
 C:\Users\pc\source\repos\Qr.Code\Qr.Code\obj\Debug\Qr.Code.pdb
+C:\ws-vs2019\Qr.Code\Qr.Code\bin\Debug\Qr.Code.exe.config
+C:\ws-vs2019\Qr.Code\Qr.Code\bin\Debug\Qr.Code.exe
+C:\ws-vs2019\Qr.Code\Qr.Code\bin\Debug\Qr.Code.pdb
+C:\ws-vs2019\Qr.Code\Qr.Code\bin\Debug\QRCoder.dll
+C:\ws-vs2019\Qr.Code\Qr.Code\obj\Debug\Qr.Code.csprojAssemblyReference.cache
+C:\ws-vs2019\Qr.Code\Qr.Code\obj\Debug\Qr.Code.Form1.resources
+C:\ws-vs2019\Qr.Code\Qr.Code\obj\Debug\Qr.Code.Properties.Resources.resources
+C:\ws-vs2019\Qr.Code\Qr.Code\obj\Debug\Qr.Code.csproj.GenerateResource.cache
+C:\ws-vs2019\Qr.Code\Qr.Code\obj\Debug\Qr.Code.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\Qr.Code\Qr.Code\obj\Debug\Qr.Code.csproj.CopyComplete
+C:\ws-vs2019\Qr.Code\Qr.Code\obj\Debug\Qr.Code.exe
+C:\ws-vs2019\Qr.Code\Qr.Code\obj\Debug\Qr.Code.pdb
